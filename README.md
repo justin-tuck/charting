@@ -43,6 +43,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
+- [Continuous Deployment to heroku](https://circleci.com/blog/continuous-deployment-to-heroku/)
+
 ### Playlist
 
 [Chill Lofi Study Beats](https://open.spotify.com/playlist/37i9dQZF1DX8Uebhn9wzrS?si=19d36038bf724997)
